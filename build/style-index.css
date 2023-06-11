@@ -1,0 +1,35 @@
+/*!***************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/style.scss ***!
+  \***************************************************************************************************************************************************************************************************************************************/
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+.wp-block-create-block-draperwebdev-block .draperwebdev-cta {
+  padding: 2px;
+  display: inline-block;
+}
+.wp-block-create-block-draperwebdev-block .draperwebdev-cta a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: -moz-fit-content;
+  width: fit-content;
+  text-decoration: none;
+  line-height: 1;
+  padding: 0.5em;
+  background-color: #21759b;
+  color: #fff;
+  transition: all ease-in 100ms;
+}
+.wp-block-create-block-draperwebdev-block .draperwebdev-cta a:hover {
+  background-color: #2585b0;
+  color: white;
+}
+.wp-block-create-block-draperwebdev-block .draperwebdev-cta a .draperwebdev-cta-small {
+  font-size: 0.75em;
+}
+
+/*# sourceMappingURL=style-index.css.map*/
